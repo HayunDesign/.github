@@ -1,4 +1,4 @@
-## We Hayun Design 👋
+## We Are Zera Devs 👋
 
 **Organization who build beautiful template for free**
 
