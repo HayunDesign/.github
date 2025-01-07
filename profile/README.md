@@ -1,5 +1,5 @@
 ## We Are Zera Devs 👋
 
-**Organization who build beautiful template for free**
+**Organization who build boiler plate for free**
 
 - Feel free to use and contribute to our templates
